@@ -7,7 +7,7 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("¿Cómo te llamas? ");
 		String nombre = sc.nextLine();
-		System.out.println("Hola, "+ nombre + "!");
+		System.out.println("Buenos días, "+ nombre + "!");
 		System.out.println("¡Hasta luego!");
 	}
 }	
